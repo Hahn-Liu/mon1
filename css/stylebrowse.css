@@ -1,0 +1,22 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+    background-color:plum;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+
+header h1 {
+    color: white;
+}
+
+.navbar{
+    margin-top: 20px;
+    position: sticky;
+}
+
+.nav{
+    color:purple;
+}
